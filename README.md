@@ -99,9 +99,7 @@
 
 
 ## 📫 Get in touch
-- Email: `your-email@example.com` (replace)
-- LinkedIn: `https://www.linkedin.com/in/yourprofile` (replace)
-- Twitter: `https://twitter.com/yourhandle` (replace)
+- Email: `ananthakrishnan.tcr@gmail.com` (replace)
 
 
 
