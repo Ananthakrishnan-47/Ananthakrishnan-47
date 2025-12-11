@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/niten-glitch">
+  <a href="https://github.com/Ananthakrishnan-47">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Ananthakrishnan A S &color=blueviolet" />
   </a>
   &nbsp;
