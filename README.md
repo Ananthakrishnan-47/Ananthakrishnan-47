@@ -1,15 +1,13 @@
 
-
 <h1 align="center">
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&width=700&lines=Hi%2C+I%27m+Ananthakrishnan+%28 A S %29!;Full-stack+Web+Developer+%7C+Open+Source+Enthusiast" />
+  <img
+    alt="typing"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&width=700&lines=Hi%2C+I'm+Ananthakrishnan+(AS)!;Full-stack+Web+Developer+%7C+Open+Source+Enthusiast"
+  />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/Ananthakrishnan-47">
-    <img alt="Profile views" src="https://github.com/Ananthakrishnan-47 &color=blueviolet" />
-  </a>
-  &nbsp;
-  
+
+
   &nbsp;
   <a href="mailto:your-ananthakrishnan.tcr@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
@@ -32,7 +30,6 @@
 
 ## 🛠️ Tech Stack — Web Development & Tools
 
-> Organized by category — copy-paste this section as a skill list anywhere.
 
 ### Frontend
 - HTML5, CSS3 (Flexbox, Grid)
