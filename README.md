@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/niten-glitch">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=niten-glitch&color=blueviolet" />
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Ananthakrishnan A S &color=blueviolet" />
   </a>
   &nbsp;
   <a href="https://twitter.com/">
@@ -28,12 +28,6 @@
 
 ---
 
-## 🔥 Animated Highlights
-
-<!-- Typing animation above + animated GIF below (replace URL with yours if you want) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="cool animation" width="460" />
-</p>
 
 ---
 
