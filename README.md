@@ -2,7 +2,7 @@
 <h1 align="center">
   <img
     alt="typing"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&width=700&lines=Hi%2C+I'm+Ananthakrishnan+(AS)!;Full-stack+Web+Developer+%7C+Open+Source+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&width=700&lines=Hi%2C+I'm+Ananthakrishnan+(AS);Full-stack+Web+Developer+%7C+Open+Source+Enthusiast"
   />
 </h1>
 
@@ -17,7 +17,7 @@
 ---
 
 ## 👨‍💻 About Me
--HI I am Ananthakrishnan A S 
+-HI I am Ananthakrishnan Ayinippully Shyam
 - 🔭 I build modern **full-stack web apps** and developer tools.
 - 🌱 Currently learning advanced **DRL for perception systems** and edge-cloud integration.
 - 💬 Ask me about  **Node.js**, **JavaScript**,and CI/CD.
@@ -26,7 +26,7 @@
 ---
 
 
----
+
 
 ## 🛠️ Tech Stack — Web Development & Tools
 
@@ -50,8 +50,8 @@
 ### DevOps & Deployment
 - Docker
 - CI/CD: GitHub Actions, GitLab CI
-- Cloud: AWS (EC2, S3, RDS, Lambda), Vercel, Netlify, Heroku
--
+  
+
 
 
 ### Tools & Productivity
