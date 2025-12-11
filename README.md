@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&width=700&lines=Hi%2C+I%27m+Niten+%28niten-glitch%29!;Full-stack+Web+Developer+%7C+Open+Source+Enthusiast" />
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&width=700&lines=Hi%2C+I%27m+Ananthakrishnan+%28 A S %29!;Full-stack+Web+Developer+%7C+Open+Source+Enthusiast" />
 </h1>
 
 <p align="center">
@@ -74,32 +74,11 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="niten-glitch's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niten-glitch&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=7A7A7A&bg_color=0,0,0,0" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niten-glitch&hide=Jupyter%20Notebook&layout=compact&title_color=00D1FF&text_color=7A7A7A&bg_color=0,0,0,0" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niten-glitch&date_format=%5BY%5D-%5Bm%5D-%5Bd%5D" />
-</p>
-
----
-
-## 📈 Contributions & Activity
-
-<!-- Activity / contribution graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=niten-glitch&theme=react-dark&area=true" alt="Contribution Graph" width="800"/>
-</p>
-
 
 
 
 ## 📫 Get in touch
-- Email: `ananthakrishnan.tcr@gmail.com` (replace)
+- Email: `ananthakrishnan.tcr@gmail.com` 
 
 
 
