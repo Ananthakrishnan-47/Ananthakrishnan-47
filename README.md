@@ -2,7 +2,7 @@
 <h1 align="center">
   <img
     alt="typing"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&width=700&lines=Hi%2C+I'm+Ananthakrishnan+(AS);Full-stack+Web+Developer+%7C+Open+Source+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&width=700&lines=Hi%2C+I'm+Ananthakrishnan+A+S;Full-stack+Web+Developer+%7C+Open+Source+Enthusiast"
   />
 </h1>
 
